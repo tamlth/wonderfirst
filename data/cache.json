@@ -1,0 +1,306 @@
+{
+    "themes": {
+        "https:\/\/github.com\/robiso\/default": {
+            "name": "Default",
+            "dirName": "default",
+            "repo": "https:\/\/github.com\/robiso\/default",
+            "zip": "https:\/\/github.com\/robiso\/default\/archive\/master.zip",
+            "newVersion": "3.0.5",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/default\/master\/preview.jpg",
+            "readme": "Default WonderCMS theme (2018-2020).",
+            "readmeUrl": "https:\/\/github.com\/robiso\/default\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/StephanStanisic\/theme-w3css-singlepage": {
+            "name": "Theme w3css singlepage",
+            "dirName": "theme-w3css-singlepage",
+            "repo": "https:\/\/github.com\/StephanStanisic\/theme-w3css-singlepage",
+            "zip": "https:\/\/github.com\/StephanStanisic\/theme-w3css-singlepage\/archive\/master.zip",
+            "newVersion": "3.0.0",
+            "image": "https:\/\/raw.githubusercontent.com\/StephanStanisic\/theme-w3css-singlepage\/master\/preview.jpg",
+            "readme": "A w3css theme ported to WonderCMS.",
+            "readmeUrl": "https:\/\/github.com\/StephanStanisic\/theme-w3css-singlepage\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/material": {
+            "name": "Material",
+            "dirName": "material",
+            "repo": "https:\/\/github.com\/robiso\/material",
+            "zip": "https:\/\/github.com\/robiso\/material\/archive\/master.zip",
+            "newVersion": "3.0.2",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/material\/master\/preview.jpg",
+            "readme": "Simple Material inspired.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/material\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/parallax": {
+            "name": "Parallax",
+            "dirName": "parallax",
+            "repo": "https:\/\/github.com\/robiso\/parallax",
+            "zip": "https:\/\/github.com\/robiso\/parallax\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/parallax\/master\/preview.jpg",
+            "readme": "One of the most advanced WonderCMS themes created by @StephanStanisic.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/parallax\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/oldDefault": {
+            "name": "OldDefault",
+            "dirName": "oldDefault",
+            "repo": "https:\/\/github.com\/robiso\/oldDefault",
+            "zip": "https:\/\/github.com\/robiso\/oldDefault\/archive\/master.zip",
+            "newVersion": "3.0.4",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/oldDefault\/master\/preview.jpg",
+            "readme": "Second generation of the nostalgic default WonderCMS theme.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/oldDefault\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/abstract": {
+            "name": "Abstract",
+            "dirName": "abstract",
+            "repo": "https:\/\/github.com\/robiso\/abstract",
+            "zip": "https:\/\/github.com\/robiso\/abstract\/archive\/master.zip",
+            "newVersion": "3.0.4",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/abstract\/master\/preview.jpg",
+            "readme": "Simply an Abstract.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/abstract\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/bike": {
+            "name": "Bike",
+            "dirName": "bike",
+            "repo": "https:\/\/github.com\/robiso\/bike",
+            "zip": "https:\/\/github.com\/robiso\/bike\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/bike\/master\/preview.jpg",
+            "readme": "Animated bike theme, providing more interaction to your visitors.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/bike\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/black": {
+            "name": "Black",
+            "dirName": "black",
+            "repo": "https:\/\/github.com\/robiso\/black",
+            "zip": "https:\/\/github.com\/robiso\/black\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/black\/master\/preview.jpg",
+            "readme": "Darker\/black theme with minor animations between switching pages.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/black\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/clean": {
+            "name": "Clean",
+            "dirName": "clean",
+            "repo": "https:\/\/github.com\/robiso\/clean",
+            "zip": "https:\/\/github.com\/robiso\/clean\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/clean\/master\/preview.jpg",
+            "readme": "A breath of fresh air.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/clean\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/carbide": {
+            "name": "Carbide",
+            "dirName": "carbide",
+            "repo": "https:\/\/github.com\/robiso\/carbide",
+            "zip": "https:\/\/github.com\/robiso\/carbide\/archive\/master.zip",
+            "newVersion": "3.0.5",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/carbide\/master\/preview.jpg",
+            "readme": "Carbide's Paper Portrait theme variant (forked from Prakai Nadee).",
+            "readmeUrl": "https:\/\/github.com\/robiso\/carbide\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/darkBlue": {
+            "name": "DarkBlue",
+            "dirName": "darkBlue",
+            "repo": "https:\/\/github.com\/robiso\/darkBlue",
+            "zip": "https:\/\/github.com\/robiso\/darkBlue\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/darkBlue\/master\/preview.jpg",
+            "readme": "Blue-ish variant of nostalgic default theme.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/darkBlue\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/fallout": {
+            "name": "Fallout",
+            "dirName": "fallout",
+            "repo": "https:\/\/github.com\/robiso\/fallout",
+            "zip": "https:\/\/github.com\/robiso\/fallout\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/fallout\/master\/preview.jpg",
+            "readme": "Fallout theme with some cool animations. &quot;Back to top&quot; button included for scrollable pages.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/fallout\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/gold": {
+            "name": "Gold",
+            "dirName": "gold",
+            "repo": "https:\/\/github.com\/robiso\/gold",
+            "zip": "https:\/\/github.com\/robiso\/gold\/archive\/master.zip",
+            "newVersion": "3.0.5",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/gold\/master\/preview.jpg",
+            "readme": "Golden version of nostalgic default theme.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/gold\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/green": {
+            "name": "Green",
+            "dirName": "green",
+            "repo": "https:\/\/github.com\/robiso\/green",
+            "zip": "https:\/\/github.com\/robiso\/green\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/green\/master\/preview.jpg",
+            "readme": "Green variant (nostalgic).",
+            "readmeUrl": "https:\/\/github.com\/robiso\/green\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/lightBlue": {
+            "name": "LightBlue",
+            "dirName": "lightBlue",
+            "repo": "https:\/\/github.com\/robiso\/lightBlue",
+            "zip": "https:\/\/github.com\/robiso\/lightBlue\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/lightBlue\/master\/preview.jpg",
+            "readme": "Light blue variant (nostalgic).",
+            "readmeUrl": "https:\/\/github.com\/robiso\/lightBlue\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/paper-l": {
+            "name": "Paper l",
+            "dirName": "paper-l",
+            "repo": "https:\/\/github.com\/robiso\/paper-l",
+            "zip": "https:\/\/github.com\/robiso\/paper-l\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/paper-l\/master\/preview.jpg",
+            "readme": "Paper Lightweight wth multiple possible colors.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/paper-l\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/paper-p": {
+            "name": "Paper p",
+            "dirName": "paper-p",
+            "repo": "https:\/\/github.com\/robiso\/paper-p",
+            "zip": "https:\/\/github.com\/robiso\/paper-p\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/paper-p\/master\/preview.jpg",
+            "readme": "Paper Portrait theme. Visitors can switch between theme colors (blue, green and red).",
+            "readmeUrl": "https:\/\/github.com\/robiso\/paper-p\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/pink": {
+            "name": "Pink",
+            "dirName": "pink",
+            "repo": "https:\/\/github.com\/robiso\/pink",
+            "zip": "https:\/\/github.com\/robiso\/pink\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/pink\/master\/preview.jpg",
+            "readme": "Pink inspired and nostalgic default theme variant.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/pink\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/purple": {
+            "name": "Purple",
+            "dirName": "purple",
+            "repo": "https:\/\/github.com\/robiso\/purple",
+            "zip": "https:\/\/github.com\/robiso\/purple\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/purple\/master\/preview.jpg",
+            "readme": "Purple nostalgic variant.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/purple\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/red": {
+            "name": "Red",
+            "dirName": "red",
+            "repo": "https:\/\/github.com\/robiso\/red",
+            "zip": "https:\/\/github.com\/robiso\/red\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/red\/master\/preview.jpg",
+            "readme": "Red nostalgic variant.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/red\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/supermario": {
+            "name": "Supermario",
+            "dirName": "supermario",
+            "repo": "https:\/\/github.com\/robiso\/supermario",
+            "zip": "https:\/\/github.com\/robiso\/supermario\/archive\/master.zip",
+            "newVersion": "3.0.3",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/supermario\/master\/preview.jpg",
+            "readme": "Super mario!",
+            "readmeUrl": "https:\/\/github.com\/robiso\/supermario\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/turbosDefault": {
+            "name": "TurbosDefault",
+            "dirName": "turbosDefault",
+            "repo": "https:\/\/github.com\/robiso\/turbosDefault",
+            "zip": "https:\/\/github.com\/robiso\/turbosDefault\/archive\/master.zip",
+            "newVersion": "3.0.1",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/turbosDefault\/master\/preview.jpg",
+            "readme": "Turbo's theme - includes animatons.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/turbosDefault\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/hightowe\/wcms-theme-adivvyo": {
+            "name": "Wcms theme adivvyo",
+            "dirName": "wcms-theme-adivvyo",
+            "repo": "https:\/\/github.com\/hightowe\/wcms-theme-adivvyo",
+            "zip": "https:\/\/github.com\/hightowe\/wcms-theme-adivvyo\/archive\/master.zip",
+            "newVersion": "20200113A",
+            "image": "https:\/\/raw.githubusercontent.com\/hightowe\/wcms-theme-adivvyo\/master\/preview.jpg",
+            "readme": "Adivvyo theme for WonderCMS.",
+            "readmeUrl": "https:\/\/github.com\/hightowe\/wcms-theme-adivvyo\/blob\/master\/README.md"
+        }
+    },
+    "plugins": {
+        "https:\/\/github.com\/robiso\/summernote-editor": {
+            "name": "Summernote editor",
+            "dirName": "summernote-editor",
+            "repo": "https:\/\/github.com\/robiso\/summernote-editor",
+            "zip": "https:\/\/github.com\/robiso\/summernote-editor\/archive\/master.zip",
+            "newVersion": "3.0.6",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/summernote-editor\/master\/preview.jpg",
+            "readme": "Adds an WYSIWYG editor to all content editable fields.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/summernote-editor\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/simple-blog": {
+            "name": "Simple blog",
+            "dirName": "simple-blog",
+            "repo": "https:\/\/github.com\/robiso\/simple-blog",
+            "zip": "https:\/\/github.com\/robiso\/simple-blog\/archive\/master.zip",
+            "newVersion": "3.0.6",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/simple-blog\/master\/preview.jpg",
+            "readme": "Adds a simple blog section to your WonderCMS website. Created by Stephan Stanisic.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/simple-blog\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/StephanStanisic\/simple-statistics": {
+            "name": "Simple statistics",
+            "dirName": "simple-statistics",
+            "repo": "https:\/\/github.com\/StephanStanisic\/simple-statistics",
+            "zip": "https:\/\/github.com\/StephanStanisic\/simple-statistics\/archive\/master.zip",
+            "newVersion": "3.0.1",
+            "image": "https:\/\/raw.githubusercontent.com\/StephanStanisic\/simple-statistics\/master\/preview.jpg",
+            "readme": "A simple and privacy minded analytics plugin",
+            "readmeUrl": "https:\/\/github.com\/StephanStanisic\/simple-statistics\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/additional-contents": {
+            "name": "Additional contents",
+            "dirName": "additional-contents",
+            "repo": "https:\/\/github.com\/robiso\/additional-contents",
+            "zip": "https:\/\/github.com\/robiso\/additional-contents\/archive\/master.zip",
+            "newVersion": "3.0.1",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/additional-contents\/master\/preview.jpg",
+            "readme": "Easily create new editable areas or hide them.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/additional-contents\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/hits-counter": {
+            "name": "Hits counter",
+            "dirName": "hits-counter",
+            "repo": "https:\/\/github.com\/robiso\/hits-counter",
+            "zip": "https:\/\/github.com\/robiso\/hits-counter\/archive\/master.zip",
+            "newVersion": "3.0.1",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/hits-counter\/master\/preview.jpg",
+            "readme": "Simple hits counter, visible in the bottom right corner. Visible only to admin.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/hits-counter\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/summernote-air-editor": {
+            "name": "Summernote air editor",
+            "dirName": "summernote-air-editor",
+            "repo": "https:\/\/github.com\/robiso\/summernote-air-editor",
+            "zip": "https:\/\/github.com\/robiso\/summernote-air-editor\/archive\/master.zip",
+            "newVersion": "3.0.4",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/summernote-air-editor\/master\/preview.jpg",
+            "readme": "Floating version of the summernote editor. Editor becomes visible only after selecting text with your cursor.",
+            "readmeUrl": "https:\/\/github.com\/robiso\/summernote-air-editor\/blob\/master\/README.md"
+        },
+        "https:\/\/github.com\/robiso\/contact-form": {
+            "name": "Contact form",
+            "dirName": "contact-form",
+            "repo": "https:\/\/github.com\/robiso\/contact-form",
+            "zip": "https:\/\/github.com\/robiso\/contact-form\/archive\/master.zip",
+            "newVersion": "3.0.0",
+            "image": "https:\/\/raw.githubusercontent.com\/robiso\/contact-form\/master\/preview.jpg",
+            "readme": "Basic contact form. Important: Requires manual editing of two additional files (config and theme.php).",
+            "readmeUrl": "https:\/\/github.com\/robiso\/contact-form\/blob\/master\/README.md"
+        }
+    }
+}
