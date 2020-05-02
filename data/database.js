@@ -3,7 +3,7 @@
         "siteTitle": "My fisrt",
         "theme": "fallout",
         "defaultPage": "home",
-        "login": "\\login",
+        "login": "login",
         "loggedIn": false,
         "forceLogout": false,
         "password": "$2y$10$YTz0Hc6oNDfsG2Pk9u8wde2KT2G30Cx0VqNJvGT6nXh.zxQ.OFcxi",
