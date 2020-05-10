@@ -1,6 +1,6 @@
 {
     "config": {
-        "siteTitle": "My fisrt",
+        "siteTitle": "My first",
         "theme": "fallout",
         "defaultPage": "home",
         "login": "login",
@@ -93,7 +93,7 @@
             "content": "<h3>About your website<\/h3>\n\n<p>Website description, photo, contact information, mini map or anything else.<\/p>\n<p>This blue editable area is visible on all pages.<\/p>"
         },
         "footer": {
-            "content": "&copy;2020 Your website"
+            "content": "©2020 My first"
         }
     }
 }
