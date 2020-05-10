@@ -4,15 +4,15 @@
         "theme": "fallout",
         "defaultPage": "home",
         "login": "login",
-        "loggedIn": false,
+        "loggedIn": true,
         "forceLogout": false,
         "password": "$2y$10$YTz0Hc6oNDfsG2Pk9u8wde2KT2G30Cx0VqNJvGT6nXh.zxQ.OFcxi",
         "lastLogins": {
-            "2020\/05\/02 07:34:05": "127.0.0.1",
-            "2020\/05\/02 07:33:23": "127.0.0.1",
-            "2020\/05\/02 07:33:03": "127.0.0.1",
-            "2020\/05\/02 07:20:15": "127.0.0.1",
-            "2020\/05\/02 07:19:54": "127.0.0.1"
+            "2020\/05\/10 07:58:26": "127.0.0.1",
+            "2020\/05\/03 06:22:43": "127.0.0.1",
+            "2020\/05\/02 16:46:14": "127.0.0.1",
+            "2020\/05\/02 11:45:53": "127.0.0.1",
+            "2020\/05\/02 11:32:19": "127.0.0.1"
         },
         "defaultRepos": {
             "themes": {
@@ -49,7 +49,7 @@
                 "5": "https:\/\/github.com\/robiso\/summernote-air-editor",
                 "6": "https:\/\/github.com\/robiso\/contact-form"
             },
-            "lastSync": "2020\/05\/02"
+            "lastSync": "2020\/05\/10"
         },
         "customRepos": {
             "themes": {},
@@ -62,11 +62,6 @@
                 "visibility": "show"
             },
             "1": {
-                "name": "Example",
-                "slug": "example",
-                "visibility": "show"
-            },
-            "2": {
                 "name": "About us",
                 "slug": "about-us",
                 "visibility": "show"
@@ -84,19 +79,13 @@
             "title": "Home",
             "keywords": "Keywords, are, good, for, search, engines",
             "description": "A short description is also good.",
-            "content": "<h1>Website alive!<\/h1>\n\n<h4>Hello world<\/h4>"
-        },
-        "example": {
-            "title": "Example",
-            "keywords": "Keywords, are, good, for, search, engines",
-            "description": "A short description is also good.",
-            "content": "<h1>How to create new pages<\/h1>\n<p><i>Settings -> General -> Add page<\/i><\/p>\n\n<h1>How to edit anything<\/h1>\n<p>Click anywhere inside the gray dashed area to edit. Click outside the area to save.<\/p>\n\n<h1>How to install\/update themes and plugins<\/h1>\n<p>By opening the Settings panel, you can install or update themes and plugins.<\/p>"
+            "content": "<h1>Website alive!<\/h1><h4 style=\"font-family: Inconsolata, Helvetica, sans-serif; color: rgba(128, 255, 128, 0.8);\">Hello world!!!<\/h4>"
         },
         "about-us": {
             "title": "About Us",
             "keywords": "Keywords, are, good, for, search, engines",
             "description": "I am a web developer",
-            "content": "<h2>This is my first<\/h2>"
+            "content": "<h2>This is my first<\/h2><p><img src=\"http:\/\/wonderfirst.local:81\\\/data\/files\/avartar.jpg\" style=\"width: 120.4px; height: 106.761px;\"><br><\/p>"
         }
     },
     "blocks": {
