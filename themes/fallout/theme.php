@@ -56,6 +56,7 @@
 			<div class="row">
 				<div class="col-lg-12 text-center padding40">
                     <?= $Wcms->page('content') ?>
+
 				</div>
 			</div>
 		</div>
@@ -64,6 +65,7 @@
 			<div class="row">
 				<div class="col-lg-12 text-center padding40">
                     <?= $Wcms->block('subside') ?>
+                    <!--- Your social icons can go here
                             <br>
                             <center>
                             <a href="#" class="fa fa-facebook"></a>
@@ -73,6 +75,8 @@
                             <a href="#" class="fa fa-vk"></a>
                             <a href="#" class="fa fa-skype"></a>
                             </center>
+                     !--->
+
 				</div>
 			</div>
 		</div>
